@@ -19,6 +19,7 @@ To address the many shortcomings of the native driver provided for the X-Touch M
   - Bottom buttons → control **transport** and advanced functions such as:  
     - Smart parameter control of an **EQ8 equalizer**  
     - Manipulation of **ADSR** functions on a synthesizer
+    - Control of racks, drum kit pads
    
 - **Full user manual**
 
