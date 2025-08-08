@@ -19,7 +19,10 @@ To address the many shortcomings of the native driver provided for the X-Touch M
   - Bottom buttons → control **transport** and advanced functions such as:  
     - Smart parameter control of an **EQ8 equalizer**  
     - Manipulation of **ADSR** functions on a synthesizer
+   
+- **Full user manual**
 
+<img width="2112" height="839" alt="LAYOUT MINIV3-MODEOP" src="https://github.com/user-attachments/assets/e9457f15-eafe-4fe9-861b-2b4e6d09aea7" />
 
 ---
 
