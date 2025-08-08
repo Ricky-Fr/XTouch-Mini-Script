@@ -29,9 +29,10 @@ To address the many shortcomings of the native driver provided for the X-Touch M
 
 ## 🛠️ Installation
 
-1. Download the compiled file  
-2. Copy it into the `Ableton/User Remote Scripts` folder  
-3. Restart Ableton
+1. Download the compiled file
+ 📦 [Scripts compilés](compiled/)
+3. Copy it into the `Ableton/User Remote Scripts` folder  
+4. Restart Ableton
 
 ---
 
