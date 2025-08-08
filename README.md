@@ -20,7 +20,6 @@ To address the many shortcomings of the native driver provided for the X-Touch M
     - Smart parameter control of an **EQ8 equalizer**  
     - Manipulation of **ADSR** functions on a synthesizer
 
-<img width="2112" height="839" alt="LAYOUT MINIV3-MODEOP" src="https://github.com/user-attachments/assets/25a6cbda-7187-498e-9321-9656510f7688" />
 
 ---
 
