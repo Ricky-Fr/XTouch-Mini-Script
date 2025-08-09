@@ -3,8 +3,8 @@
 This folder contains compiled versions of the **XTouch Mini** script for **Ableton Live**.
 
 👉 To install, simply copy these files into the folder:  
-`Ableton/User Remote Scripts`  
-The included user manual will guide you through the installation and usage.
+`Ableton/User Remote Scripts/XTouch_Mini`  
+The included complete user manual will guide you through the installation and usage.
 
 ---
 
