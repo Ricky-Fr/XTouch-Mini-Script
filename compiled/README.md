@@ -12,6 +12,7 @@ The included complete user manual will guide you through the installation and us
 The compiled script available here is a **demo version**, limited to **10 minutes of use per session** .  
 To unlock unlimited functionality, a **license purchase** will be required.  
 Licenses will soon be available via the website, or feel free to leave me a message to get started.
+🙏 **Please try the demo version first before purchasing a license.**
 
 💬 Your feedback and suggestions are always welcome — thank you for your support, and enjoy making music!
 
