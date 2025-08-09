@@ -14,3 +14,6 @@ To unlock unlimited functionality, a **license purchase** will be required.
 Licenses will soon be available via the website, or feel free to leave me a message to get started.
 
 💬 Your feedback and suggestions are always welcome — thank you for your support, and enjoy making music!
+
+📬 **Need help or want to leave a message?**  
+You can [open an issue on GitHub](https://github.com/Ricky-Fr/XTouch-Mini-Script/issues) — no special access required, just log in and post your question or comment.
