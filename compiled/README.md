@@ -1,14 +1,16 @@
 # 📦 Compiled Scripts
 
-This folder contains compiled versions of the script XTouch Mini for Ableton Live.
+This folder contains compiled versions of the **XTouch Mini** script for **Ableton Live**.
 
-👉 Please copy these files into the folder `Ableton/User Remote Scripts`.
+👉 To install, simply copy these files into the folder:  
+`Ableton/User Remote Scripts`  
+The included user manual will guide you through the installation and usage.
 
-The user manual will guide you through the installation and use of this script.
+---
 
-⚠️ **IMPORTANT**: The compiled script available here is a DEMO version limited to 10 minutes 🕒 and requires the purchase of a license for unlimited use. The purchase can be made soon on the website or by leaving me a message.
+⚠️ **IMPORTANT**  
+The compiled script available here is a **demo version**, limited to **10 minutes** of use.  
+To unlock unlimited functionality, a **license purchase** will be required.  
+Licenses will soon be available via the website, or feel free to leave me a message to get started.
 
-
-💬 I welcome your feedback and suggestions.
-
-Thank you for your support and have Fun.
+💬 Your feedback and suggestions are always welcome — thank you for your support, and enjoy making music!
