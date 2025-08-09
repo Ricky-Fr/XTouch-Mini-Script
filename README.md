@@ -44,7 +44,7 @@ This software is distributed under a proprietary license. See [LICENSE.md](https
 
 ## 🙏 Acknowledgments
 
-Inspired by the work of many <! -- [Kik07L](https://github.com/Kik07L/Behringer-X-Touch-for-ableton)
+Inspired by the work of many <!-- [Kik07L](https://github.com/Kik07L/Behringer-X-Touch-for-ableton) -->
 
 ---
 
