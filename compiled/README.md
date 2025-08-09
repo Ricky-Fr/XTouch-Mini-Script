@@ -9,7 +9,7 @@ The included user manual will guide you through the installation and usage.
 ---
 
 ⚠️ **IMPORTANT**  
-The compiled script available here is a **demo version**, limited to **10 minutes** of use.  
+The compiled script available here is a **demo version**, limited to **10 minutes per session** of use.  
 To unlock unlimited functionality, a **license purchase** will be required.  
 Licenses will soon be available via the website, or feel free to leave me a message to get started.
 
