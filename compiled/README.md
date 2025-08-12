@@ -11,7 +11,7 @@ The included complete user manual will guide you through the installation and us
 ⚠️ **IMPORTANT**  
 The compiled script available here is a **demo version**, limited to **10 minutes of use per session** .  
 To unlock unlimited functionality, a **license purchase** will be required.  
-Licenses will soon be available via website, or feel free to leave me a message to get started.
+Licenses will soon be available via website GUMROAD https://ripagerien.gumroad.com/l/sjocos , or feel free to leave me a message to get started.
 
 🙏 **Please try the demo version first before purchasing a license.**
 
