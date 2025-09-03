@@ -1,10 +1,10 @@
 # 📦 Compiled Scripts
 
-This folder contains compiled versions of the **XTouch Mini** script for **Ableton Live**.
+This folder contains compiled version of the **XTouch Mini** script for **Ableton Live**.
 
 👉 To install, simply copy these .pyc files into the folder:  
-`Ableton/User Remote Scripts/XTouch_Mini`  
-The included complete user manual will guide you through the installation and usage.
+`C:\ProgramData\Ableton\Live 12 Standard\Resources\MIDI Remote Scripts\XTouch_Mini`  
+The included complete user manual will guide you through the installation process and usage.
 
 ---
 
