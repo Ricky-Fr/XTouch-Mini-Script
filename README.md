@@ -42,7 +42,8 @@ This software is distributed under a proprietary license. See [LICENSE.md](https
 
 ---
 
-This repository is provided for educational and personal use only. Forking, redistribution, or modification for commercial purposes or public release requires prior written permission. Please respect the spirit of this project. For any questions or requests, feel free to reach out.
+This repository is provided for educational and personal use only. Forking, redistribution, or modification for commercial purposes or public release requires prior written permission. 
+Please note that the source code for this project is not publicly available. Only compiled binaries and documentation are provided in this repository. This decision is intended to protect the integrity of the project and prevent unauthorized modifications or redistribution. For inquiries or special access requests, feel free to contact the author.
 
 ---
 
