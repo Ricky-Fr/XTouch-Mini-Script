@@ -50,4 +50,7 @@ Inspired by the work of many
 
 ## 📬 Contact
 
-For questions or commercial inquiries: **ripagerien@gmail.com**
+For questions or commercial inquiries: 
+<img width="202" height="23" alt="image" src="https://github.com/user-attachments/assets/2c11d88e-c8e1-4fd1-9fd0-e4a9e9edb0bc" />
+
+
