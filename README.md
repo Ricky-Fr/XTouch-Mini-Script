@@ -42,9 +42,7 @@ This software is distributed under a proprietary license. See [LICENSE.md](https
 
 ---
 
-## 🙏 Acknowledgments
-
-Inspired by the work of many
+This repository is provided for educational and personal use only. Forking, redistribution, or modification for commercial purposes or public release requires prior written permission. Please respect the spirit of this project. For any questions or requests, feel free to reach out.
 
 ---
 
