@@ -30,7 +30,7 @@ To address the many shortcomings of the native driver provided for the X-Touch M
 ## 🛠️ Installation
 
 1. Download user guide and the compiled files
- 📦 [Scripts compilés](compiled/)
+ 📦 [Scripts compiled](compiled/)
 3. Copy it into the `C:\ProgramData\Ableton\Live 12 Standard\Resources\MIDI Remote Scripts\XTouch_Mini` folder  
 4. Restart Ableton
 
