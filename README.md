@@ -21,7 +21,7 @@ To address the many shortcomings of the native driver provided for the X-Touch M
     - Manipulation of **ADSR** functions on a synthesizer
     - Control of racks, drum kit pads
    
-- **Complet STRIP mode **:
+- **Complete Strip Mode**:  
     - Solo, Solo ex, Mute, Arm, Monitor
     - Volume, Pano, Send A/B/C, Loop def
     - Punch In & Out
