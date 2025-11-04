@@ -21,6 +21,12 @@ To address the many shortcomings of the native driver provided for the X-Touch M
     - Manipulation of **ADSR** functions on a synthesizer
     - Control of racks, drum kit pads
    
+- **Complet STRIP mode **:
+    - Solo, Solo ex, Mute, Arm, Monitor
+    - Volume, Pano, Send A/B/C, Loop def
+    - Punch In & Out
+    - Track Selection with pot
+   
 - **Full user manual**
 
 <img width="2112" height="839" alt="LAYOUT MINIV3-MODEOP" src="https://github.com/user-attachments/assets/e9457f15-eafe-4fe9-861b-2b4e6d09aea7" />
