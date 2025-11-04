@@ -16,16 +16,25 @@ To address the many shortcomings of the native driver provided for the X-Touch M
 
 - **Advanced Per-Track Mode**:  
   - Top buttons → assigned to **SOLO** or **MUTE**  
-  - Bottom buttons → control **transport** and advanced functions such as:  
+  - Bottom buttons → control **transport**
+  - Pot assigned to Volume/Utility Gain, Pano, Sends
+    
+- **Plugin Mode**:  
+  - Acces to all plugins and rack pararemeters:  
     - Smart parameter control of an **EQ8 equalizer**  
     - Manipulation of **ADSR** functions on a synthesizer
     - Control of racks, drum kit pads
    
+- **Navigation Mode via Pots**:  
+    - Zoom, Tempo with A & B memory slots
+    - Locator setting and timeline navigation
+    - Playhead positioning, loop start, and loop length adjustment
+ 
 - **Complete Strip Mode**:  
-    - Solo, Solo ex, Mute, Arm, Monitor
-    - Volume, Pano, Send A/B/C, Loop def
-    - Punch In & Out
-    - Track Selection with pot
+    - **Track controls:** Solo, Solo exclusive, Mute, Arm, Monitor
+    - **Mixing parameters**: Volume, Pan, Sends A/B/C, Loop definition
+    - **Transport actions**: Punch In & Out
+    - **Track selection** via rotary encoder
    
 - **Full user manual**
 
