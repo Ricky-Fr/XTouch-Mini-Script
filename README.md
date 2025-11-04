@@ -31,6 +31,8 @@ To address the many shortcomings of the native driver provided for the X-Touch M
 
 <img width="2112" height="839" alt="LAYOUT MINIV3-MODEOP" src="https://github.com/user-attachments/assets/e9457f15-eafe-4fe9-861b-2b4e6d09aea7" />
 
+<img width="1955" height="642" alt="LAYOUT XTOUCH-STRIP-PRE" src="https://github.com/user-attachments/assets/ad64f5fb-d4c5-42e8-8c1f-f99686fe5296" />
+
 ---
 
 ## 🛠️ Installation
