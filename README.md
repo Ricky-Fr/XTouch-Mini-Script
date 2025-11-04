@@ -20,7 +20,7 @@ To address the many shortcomings of the native driver provided for the X-Touch M
   - Pot assigned to Volume/Utility Gain, Pano, Sends
     
 - **Plugin Mode**:  
-  - Acces to all plugins and rack pararemeters:  
+  - Acces to all plugins and rack parameters:  
     - Smart parameter control of an **EQ8 equalizer**  
     - Manipulation of **ADSR** functions on a synthesizer
     - Control of racks, drum kit pads
