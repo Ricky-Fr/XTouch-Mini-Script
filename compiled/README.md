@@ -9,11 +9,10 @@ The included complete user manual will guide you through the installation proces
 ---
 
 ⚠️ **IMPORTANT**  
-The compiled script available here is a **demo version**, limited to **10 minutes of use per session** .  
-To unlock unlimited functionality, a **license purchase** will be required.  
-Licenses will soon be available via website GUMROAD https://ripagerien.gumroad.com/l/sjocos for 13€, or feel free to leave me a message to get started.
+The compiled script available here is a **full version**, unlimited .  
+No **license purchase** will be required, but you need the licence file licence.txt.  
+Feel free to leave me a message to get started.
 
-🙏 **Please try the demo version first before purchasing a license.**
 
 💬 Your feedback and suggestions are always welcome — thank you for your support, and enjoy making music!
 
