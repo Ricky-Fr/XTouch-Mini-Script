@@ -10,7 +10,7 @@ The included complete user manual will guide you through the installation proces
 
 ⚠️ **IMPORTANT**  
 The compiled script available here is a **full version**, unlimited .  
-No **license purchase** will be required, but you need the licence file licence.txt.  
+No **license purchase** will be required, but you need the licence file licence.txt in the folder.  
 Feel free to leave me a message to get started.
 
 
