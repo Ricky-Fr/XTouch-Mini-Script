@@ -6,7 +6,7 @@ This script customizes the **Behringer X-Touch Mini** controller for advanced us
 
 ## 🚀 Why This Script?
 
-To address the many shortcomings of the native driver provided for the X-Touch Mini in Mackie mode, I decided to completely redevelop it. I started from a nearly blank slate, asking myself what features I would want on such a controller, considering its limited number of physical buttons. The license provided on this site is permanent.
+To address the many shortcomings of the native driver provided for the X-Touch Mini in Mackie mode, I decided to completely redevelop it. I started from a nearly blank slate, asking myself what features I would want on such a controller, considering its limited number of physical buttons. The license provided on this site **is permanent**.
 
 ### 🔧 Development Goals:
 - **Full Mixer Mode**:  
