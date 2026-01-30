@@ -24,6 +24,7 @@ To address the many shortcomings of the native driver provided for the X-Touch M
     - Smart parameter control of an **EQ8 equalizer**  
     - Manipulation of **ADSR** functions on a synthesizer
     - Control of racks, drum kit pads
+    - Never lose a great sound again. The script includes a **Snapshot** feature to compare or recall settings
    
 - **Navigation Mode via Pots**:  
     - Zoom, Tempo with A & B memory slots
