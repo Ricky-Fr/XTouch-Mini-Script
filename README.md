@@ -38,9 +38,17 @@ To address the many shortcomings of the native driver provided for the X-Touch M
    
 - **Full user manual**
 
-<img src="https://github.com/user-attachments/assets/e9457f15-eafe-4fe9-861b-2b4e6d09aea7" alt="LAYOUT MINIV3-MODEOP" style="width: 900px;" />
+<img width="850" alt="LAYOUT-MINIV5-MIXER" src="https://github.com/user-attachments/assets/f519e6ff-020b-4cca-9d32-eb76c875f610" />
+
+MIXER or PLUGIN mode
+
+<img width="850" alt="LAYOUT-MINIV5-NAV" src="https://github.com/user-attachments/assets/2497ce70-b226-4927-9721-0ffdb42d2ca9" />
+
+NAV mode
 
 <img src="https://github.com/user-attachments/assets/ad64f5fb-d4c5-42e8-8c1f-f99686fe5296" alt="LAYOUT XTOUCH-STRIP-PRE" style="width: 850px;" />
+
+CHANNEL STRIP mode
 
 --
 
