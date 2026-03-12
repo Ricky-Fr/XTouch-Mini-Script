@@ -3,6 +3,7 @@
 This script customizes the **Behringer X-Touch Mini** controller for advanced use with **Ableton Live**, overcoming the limitations of the native Mackie mode driver.
 
 IA in XTouch Mini IS COMMING... see my another repository
+
 ---
 
 ## 🚀 Why This Script?
