@@ -13,6 +13,7 @@ The compiled script available here is a **full version**, unlimited .
 No **license purchase** will be required, but you need the licence file licence.txt in the folder.  
 Feel free to leave me a message to get started.
 
+**You have to reinstall the folder Xtouch_Mini at every Ableton Live upgrade - the directory is deleted within the install, please backup the folder**
 
 💬 Your feedback and suggestions are always welcome — thank you for your support, and enjoy making music!
 
